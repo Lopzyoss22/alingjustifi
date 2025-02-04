@@ -72,7 +72,7 @@ h1{
     width: 513px;
     height: 513px;
     
-    background-image: url("/alingjustifi/gift.png");
+    background-image: url("gift.png");
     background: cover;
 
 }
@@ -80,7 +80,7 @@ h1{
     border: 6px solid white;
     border-radius: 50%;
     color: aqua;
-    background-image: url("/alingjustifi/elmo.gif");
+    background-image: url("elmo.gif");
    
 
    
@@ -116,18 +116,18 @@ h1{
     border: 6px solid white;
     border-radius: 50%;
     color: aqua;
-    background-image: url("/alingjustifi/cooke.gif");
+    background-image: url("cooke.gif");
 }
 
 #genius:hover{
-    background-image: url("/alingjustifi/ginius.gif")
+    background-image: url("ginius.gif")
 }
 #badass:hover{
-    background-image:url("/alingjustifi/bad.gif") ;
+    background-image:url("bad.gif") ;
 }
 
 #leo:hover{
-    background-image: url("/alingjustifi/leo.gif");
+    background-image: url("leo.gif");
 }
 
 #footer{
