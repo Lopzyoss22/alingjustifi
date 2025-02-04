@@ -1,0 +1,137 @@
+body{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(rgb(0, 217, 255), rgb(52, 95, 160));
+    /*text-align: center;*/
+    font-family: serif;
+    text-shadow: 2px 2px 3px black;
+    
+}
+#bff-img{
+    
+    width: 500px;
+    border-radius: 50%;
+    border: 6px solid rgb(235, 236, 238);
+}
+
+h2, h4{
+    font-size: 50px;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h1{
+    background: red;
+    border-radius: 60px;
+    padding: 10px 20px 10px 20px;
+    color: rgb(224, 218, 212);
+   font-size: 70px;
+    border:5px;
+    
+}
+.bord{
+    background: red;
+    
+    padding: 10px 20px 10px 20px;
+    color: rgb(224, 218, 212);
+   
+    border:5px;
+}
+
+.bord:hover{
+    color: white;
+    background: fixed;
+    background-image: url("awda.gif");
+}
+
+.gift-img{
+    background: linear-gradient(red,blue);
+}
+
+.gift-section{
+    margin-bottom: 10px;
+    display: block;
+    text-align: center;
+}
+.gift-title{
+    margin-bottom: 10px;
+    color: rgb(247, 245, 242);
+}
+.gift-hint{
+    margin-top: 0;
+    color: white;
+    font-size: 25px;
+}
+.gift-img{
+    display: inline-block;
+    width: 513px;
+    height: 513px;
+    
+    background-image: url("/alingjustifi/gift.png");
+    background: cover;
+
+}
+.gift-img:hover{
+    border: 6px solid white;
+    border-radius: 50%;
+    color: aqua;
+    background-image: url("/alingjustifi/elmo.gif");
+   
+
+   
+}
+
+.segundo{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block;
+    justify-content: center;
+    
+}
+
+.titulo{
+    margin-top: 0;
+    color: white;
+    font-size: 25px;
+    
+}
+
+.titulo2{
+    margin-bottom: 10px;
+    color: wheat;
+}
+.img3{
+    display: inline-block;
+    width: 513px;
+    height: 513px;
+    background-image: url("");
+    background: cover;
+}
+#cookie:hover{
+    border: 6px solid white;
+    border-radius: 50%;
+    color: aqua;
+    background-image: url("/alingjustifi/cooke.gif");
+}
+
+#genius:hover{
+    background-image: url("/alingjustifi/ginius.gif")
+}
+#badass:hover{
+    background-image:url("/alingjustifi/bad.gif") ;
+}
+
+#leo:hover{
+    background-image: url("/alingjustifi/leo.gif");
+}
+
+#footer{
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 2px 2px 2px white;
+}
